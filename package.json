@@ -1,12 +1,9 @@
 {
-  "name": "gatsby-personal-starter-blog",
+  "name": "gatsby-netlify-poc",
   "private": true,
-  "description": "A personal blog starter for a blog powered by Netlify CMS, based on the default blog starter",
+  "description": "A POC site/blog with styled components, dark mode, and Netlify CMS.",
   "version": "1.0.0",
-  "author": "Thomas Wang <thomas@wang.sh>",
-  "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
-  },
+  "author": "Giovanni Bieller",
   "dependencies": {
     "@mdx-js/mdx": "^1.5.1",
     "@mdx-js/react": "^1.5.1",
@@ -53,7 +50,7 @@
   "main": "n/a",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gatsbyjs/gatsby-starter-blog.git"
+    "url": "git+https://github.com/giovannibieller/gatsby_netlify_cms.git"
   },
   "scripts": {
     "build": "gatsby build",
