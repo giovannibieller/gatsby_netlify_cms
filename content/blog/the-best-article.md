@@ -7,5 +7,3 @@ description: very beautifukl blogpost
 # lmsclmalcòmlòmmsalmamlsmlsa
 
 sdlòldalòs,sadlò
-
-![](/assets/schermata-2020-05-29-alle-11.28.52.png)
