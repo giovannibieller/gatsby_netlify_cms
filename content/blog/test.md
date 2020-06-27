@@ -1,9 +1,8 @@
 ---
 path: test
 date: 2020-04-30T10:04:50.401Z
-title: test
+title: test 2
 description: tst
-image: assets/schermata-2020-05-29-alle-11.28.52.png
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent commodo metus id nunc pulvinar varius. Suspendisse justo neque, ullamcorper vel ligula id, dictum gravida urna. Sed nec velit eget velit faucibus facilisis. Integer pharetra lectus purus, sollicitudin commodo enim sodales ut. Donec malesuada ex eget ipsum rhoncus, in eleifend enim euismod. Proin gravida arcu eu lorem tristique, sed porttitor est mollis. Nunc ultrices **ante** in mauris dictum, ac sollicitudin velit sagittis. Morbi id lacus nunc. Fusce id erat sed purus dapibus imperdiet sed non nunc. Etiam aliquam varius erat, eget fringilla ipsum faucibus aliquet. Morbi condimentum convallis ligula in volutpat. Donec ultricies, libero eu ultrices fringilla, eros ligula consequat diam, ac consequat nunc leo ac sapien. Vestibulum interdum mi turpis, at efficitur purus ultricies vestibulum. Proin pretium turpis vitae velit ornare venenatis. Pellentesque eget odio metus.
 
